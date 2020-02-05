@@ -1,7 +1,7 @@
 # OUR PRINCIPLES
 
 ## TEST DRIVEN DEVELOPMENT
-We write the acceptance criteria before we write code. By following the Red-Green-**Refactor** loop we write code that is easy to change and maintain. Continuous delivery requires a quick quality feedback, which is accomplished by automated test runs. Shorter feedback times lowers risk. Integration tests cover happy path scenarios and known bugs, edge cases are checked in faster tests.
+We write the acceptance criteria before we write code. By following the ![Red-Green-Refactor](https://www.codecademy.com/articles/tdd-red-green-refactor) loop we write code that is easy to change and maintain. Continuous delivery requires a quick quality feedback, which is accomplished by automated test runs. Shorter feedback times lowers risk. Integration tests cover happy path scenarios and known bugs, edge cases are checked in faster tests.
 
 ## FAVOR OPEN SOURCE
 Using open source components instead of closed source enables us to contribute with improvements and handle bugs rapidly without a delaying third party. Make sure that included open source components allows commercial usage and are approved by the CTO or technical lead.
