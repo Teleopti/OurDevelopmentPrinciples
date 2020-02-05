@@ -16,7 +16,7 @@ The code, not the comments, describes the intent of the author. If you cannot de
 Pair programming, mob programming or just a small chat by the coffee machine. Working together means that we should leverage each other and use all competence available in the company to deliver great products.
 
 ## SECURITY
-We write code that is secure. Users must not access information they are not entitled to. We are always cautious with user input to avoid known attacks. Awareness of the OWASP top 10 is highly recommended.
+We write code that is secure. Users must not access information they are not entitled to. We are always cautious with user input to avoid known attacks. Awareness of the [OWASP top 10](https://owasp.org/www-project-top-ten/) is highly recommended.
 
 ## ALWAYS IMPROVING
 We strive for making better things every day. Read blogs, books, and code to keep up to date. Always continue work to write code that is easier to change.
